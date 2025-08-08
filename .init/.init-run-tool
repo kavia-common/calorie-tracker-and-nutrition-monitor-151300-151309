@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && uvicorn src.api.main:app --host <host> --port <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/calorie-tracker-and-nutrition-monitor-151300-151309/calorie_tracker_backend"
+}
